@@ -85,7 +85,7 @@
 
 //------------------------------------------------TASK 7--NESTED ELSE IF------------------------------------------------------------------//
 
-// let nationality = prompt("ENTER YOU NATIONALITY")
+// let nationality = prompt("ENTER YOUR NATIONALITY ! ")
 // let n = nationality.toUpperCase();
 // if (n == 'PAKISTANI' || n == 'INDIAN') 
 // {
@@ -111,30 +111,31 @@
 //     let fage = +prompt("Your Age?")
 //     if (fage > 18)
 //     {
-//       let married = +prompt("Are you Married or not: Yes/No")
-//       // let m = married.toUpperCase();
+//       let m = prompt("Are you Married or not: Yes/No")
+//       if ( m=='YES'|| 'yes')
+//       {
+//         alert("ELLIGIBLE!")
+//       }
+
+//       else if (m=='no'||'No')
+//       {
+//         alert("NOT ELLIGIBLE!");
+//       }
      
-      
 //     }
+
 //     else
 //     {
-//       alert("NOT ELLIGIBLE");
+//       alert("NOT ELLIGIBLE!");
 //     }
 //   }
   
-//   if ( m=='YES')
-//       {
-//         alert("elligible")
-//       }
-//       else
-//       {
-//         alert("not elligible");
-//       }
+ 
       
 // }
 // else 
 // {
-//   alert("NOT ELLIGIBLE")
+//   alert("NOT ELLIGIBL!")
 // }
 
 //---------------------------------TASK 8---ARRAY COPY---------------------------------------------//
