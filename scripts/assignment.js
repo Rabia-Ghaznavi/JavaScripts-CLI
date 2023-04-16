@@ -49,6 +49,27 @@
 // let remaining = nameEnter.slice(1);
 // alert("FIRST LETTER CAPITALIZED: " + cap + remaining);
 
+
+//----------------------------------------------TASK 5--FOR AND ARRAY-------------------------------------------------------------//
+
+// let contactNumbers = []
+// let contactNames = []
+
+
+// for (i = 1; i <= 3; i++) {
+//     let number = +prompt(`Enter contact number`)
+//     contactNumbers.push(number)
+//     let name = prompt(`Enter contact name`)
+//     contactNames.push(name)
+// }
+
+// for (let a = 0; a < contactNumbers.length; a++) {
+//     console.log("Contact Name:");
+//     console.log(contactNames[a]);
+//     console.log("Contact Number:");
+//     console.log(contactNumbers[a]);
+// }
+
 //-----------------------------------------------TASK 6--ARRAY--REMOVING PRODUCT----------------------------------------------//
 
 // let product = ["DairyMilk", "KitKat", "Silk", "Lays", "Oreo"];
@@ -118,7 +139,7 @@
 
 //---------------------------------TASK 8---ARRAY COPY---------------------------------------------//
 
-let WCSquad=["p1","p2","p3","p4","p5","p6","p7","p8","p9","p10","p11","p12","p13","p14","p15             "]
-let copy=WCSquad;
-let finalSelection=WCSquad.slice(0,11)
-alert("copy of WCSquad    : " +copy+"Final Selection of Team         :"  +finalSelection)
+// let WCSquad=["p1","p2","p3","p4","p5","p6","p7","p8","p9","p10","p11","p12","p13","p14","p15             "]
+// let copy=WCSquad;
+// let finalSelection=WCSquad.slice(0,11)
+// alert("copy of WCSquad    : " +copy+"Final Selection of Team         :"  +finalSelection)
